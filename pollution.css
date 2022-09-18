@@ -38,6 +38,13 @@
   float: right;
 }
 
+.marquee {
+  background-color: rgb(29, 215, 19);
+  font-size: 1.5em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-top: 12px;
+
+}
 nav {
   margin-top: 140px;
   width: 100%;

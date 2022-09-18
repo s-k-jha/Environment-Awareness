@@ -39,6 +39,13 @@
     float: right;
 }
 
+.marquee {
+    background-color: rgb(29, 215, 19);
+    font-size: 1.5em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 12px;
+
+}
 body {
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.2)), url("global\ warming.webp");
     background-repeat: no-repeat;
